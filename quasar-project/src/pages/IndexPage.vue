@@ -1,11 +1,7 @@
 <template>
   <q-page class="flex flex-center">
-    <img
-      alt="Quasar logo"
-      src="~assets/quasar-logo-vertical.svg"
-      style="width: 200px; height: 200px"
-    >
-  </q-page>
+    <img alt="Logo Knjiznice" src="~assets/rijekaLogo.png" width="50%" height="50%">
+  </q-page> 
 </template>
 
 <script setup>
